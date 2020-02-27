@@ -12,7 +12,7 @@
 		<!-- KEYWORDS -->
 		<meta name="keywords" content="mender, bemender, hire, get hired, hire someone">
 
-		<title>Mender! | Hire - Get Hired on a trusted platform.</title>
+		<title>Mender | Hire - Get Hired on a trusted platform.</title>
 
 		<!-- FACEBOOK -->
 		<meta property="og:locale" content="en_US" />
@@ -87,23 +87,23 @@
 							
 							<h1 class="text-giant wow fadeInUp">
 								<strong>
-									Launch!<br />
+									Launch <br />
 									Coming <span></span>
 									Soon!
 								</strong>
 							</h1>
 
 							<h2 class="text-large wow fadeInUp" data-wow-delay=".2s">
-								Hire - Get Hired <br />
-								on a trusted <span></span>
-								platform.
+								Hire or Get Hired <br />
+								on a Secure <span></span>
+								Platform.
 							</h2>
 
 							<!-- DETAILS -->
 							<div class="details">
 								
 								<p class="text-xx-small wow fadeInUp" data-wow-delay=".4s">
-									Soon available in
+									Available Soon On
 								</p>
 
 								<a href="#" class="wow fadeInUp" data-wow-delay=".6s">
@@ -150,9 +150,11 @@
 						<div class="col-md-7 right">
 						
 							<p class="text-medium wow fadeInUp">
-								Back in 2019, we asked ourselves a simple question that would later become our mission: Why is it still so hard to hire a plumber? Or a piano teacher? Or any local professional?<br /><br />
+								Back in 2019, we after several failed attempts to find good help, we asked ourselves a simple question: Why is it so hard to hire a plumber, or piano teacher or any local professional?<br /><br />
 
-								In the era of instant-everything, it’s crazy that you still have to waste an entire afternoon researching, calling and comparing local pros whenever you need one. So we set out to make it easier. <strong>Today, we are Menders!</strong>
+								We made this our mission to create a solution to this problem.<br /><br />
+								
+								In the era of instant gratification, it's crazy that you still have to waste hours (or sometimes days) researching, calling and comparing local pros when you need one.  So, we set out to make this easier:<strong>We are Menders!</strong>
 							</p>
 
 						</div><!-- END COL / RIGHT -->
@@ -348,16 +350,17 @@
 
 								<h2 class="text-large wow fadeInUp">
 									<strong>
-										Do you have a licensed business that does bigger jobs?
+										Do you have a licensed business that does bigger jobs,<br />
+										or are you a small company with a service to provide?
 									</strong>
 								</h2>
 
 								<p class="text-medium wow fadeInUp">
-									Join our expanding network of professionals.
+									Join our expanding network of professional providers.
 								</p>
 
 								<a href="#" class="white-bt text-medium wow zoomIn">
-									Coming soon
+									COMING SOON
 								</a>
 							
 							</div><!-- END WRAP -->
