@@ -313,7 +313,7 @@
 							<div class="buttons">
 								
 								<p class="text-xx-small wow fadeInUp">
-									Soon available in
+									Available Soon On
 								</p>
 
 								<a href="#" class="wow fadeInUp">
