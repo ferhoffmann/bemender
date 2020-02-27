@@ -12,7 +12,7 @@
 		<!-- KEYWORDS -->
 		<meta name="keywords" content="mender, bemender, hire, get hired, hire someone">
 
-		<title>Mender | Hire - Get Hired on a trusted platform.</title>
+		<title>Mender! | Hire - Get Hired on a trusted platform.</title>
 
 		<!-- FACEBOOK -->
 		<meta property="og:locale" content="en_US" />
